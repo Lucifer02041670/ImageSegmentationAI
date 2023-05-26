@@ -8,6 +8,8 @@
 ОБЯЗАТЕЛЬНО СКАЧАТЬ ИЗ РЕПОЗИТОРИЯ:
   1. main.py
   2. AI.py
+  3. Font.jpg
+  4. Tren1.jpg
 
 СКАЧАЙТЕ ФАЙЛ: "mask_rcnn_coco.h5" ПО ССЫЛКЕ:
   https://github.com/matterport/Mask_RCNN/releases/tag/v1.0
